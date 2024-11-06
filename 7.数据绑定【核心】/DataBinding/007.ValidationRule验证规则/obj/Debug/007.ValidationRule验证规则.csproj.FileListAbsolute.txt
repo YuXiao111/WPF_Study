@@ -1,0 +1,16 @@
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\bin\Debug\007.ValidationRule验证规则.exe.config
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\bin\Debug\007.ValidationRule验证规则.exe
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\bin\Debug\007.ValidationRule验证规则.pdb
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.csproj.AssemblyReference.cache
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\App.g.cs
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则_MarkupCompile.cache
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则_MarkupCompile.lref
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.g.resources
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\_007.ValidationRule验证规则.Properties.Resources.resources
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.csproj.GenerateResource.cache
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.csproj.CoreCompileInputs.cache
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.exe
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\007.ValidationRule验证规则.pdb
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\Views\MainView.g.cs
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\.Net\Git仓库\WPF框架及知识学习\7.数据绑定【核心】\DataBinding\007.ValidationRule验证规则\obj\Debug\Views\MainView.baml
